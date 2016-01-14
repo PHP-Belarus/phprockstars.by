@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Belarussian Rockstar PHP Developers</title>
+    <title>Belarusian Rockstar PHP Developers</title>
 
     <meta name="description" content="Follow rockstar Belarusian PHP developers with a single click">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
