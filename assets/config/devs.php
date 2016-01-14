@@ -3,9 +3,9 @@
 return array (
 
   array (
-    'name' => 'Дмитрий Варвашения',
+    'name' => 'Dmitrii Varvashenya',
     'desc' => 'Drupal modules contributor',
-    'twitter' => 'adamwathan',
+    'twitter' => 'varvashenia',
   ),
   array(
     'name' => 'Maslovskiy Evgeniy',
