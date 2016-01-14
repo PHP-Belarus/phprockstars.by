@@ -40,7 +40,7 @@ and you will follow all these awesome PHP people.</p>
                         (You can close the page now, but please do share it with friends)
                         <?php endif;?>
                         <br/><br/>
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="Follow <?=count($devs)?> awesome PHP developers with a single click" data-size="large" data-hashtags="PHP,webdev">Tweet</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="Follow <?=count($devs)?> awesome Belorussian PHP developers with a single click" data-size="large" data-hashtags="PHP,webdev">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   <br/>
 <small>Someone missing from the list? Feel free to suggest them <a href="https://github.com/PHP-Belarus/phprockstars.by/blob/master/assets/config/devs.php">by sending a PR</a>.</small>
