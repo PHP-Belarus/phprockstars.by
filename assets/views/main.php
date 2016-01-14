@@ -27,7 +27,7 @@
     <body>
         <div class="container">
             <div class="jumbotron">
-                <h1>Rockstar PHP Developers</h1>
+                <h1 class="text-center">Belorussian Rockstar PHP Developers</h1>
                     <p class="lead">This is an Belarussian opensource alternative to <a href="http://followphpdevs.com">followphpdevs.com</a>. One click
 and you will follow all these awesome PHP people.</p>
 

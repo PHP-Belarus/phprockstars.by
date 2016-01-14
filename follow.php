@@ -18,8 +18,6 @@ $api = new TwitterOAuth(
 
 $devs = $pixie->config->get('devs');
 
-file_put_contents($root.'/log.txt', "started\n", FILE_APPEND);
 foreach ($devs as $dev) {
     $res = $api->post('friendships/create', array('screen_name' => $dev['twitter']));
 }
-file_put_contents($root.'/log.txt', "finished\n", FILE_APPEND);
