@@ -27,4 +27,9 @@ return array(
         'desc' => 'Contributor to Laravel, Doctrine and PHP-Fig',
         'twitter' => 'anton_serdyuk',
     ),
+    array(
+        'name' => 'Andrew Nester',
+        'desc' => 'Contributor to Phalcon/Zephir',
+        'twitter' => 'andrewnester',
+    ),
 );
