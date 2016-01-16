@@ -29,7 +29,7 @@ return array(
     ),
     array(
         'name' => 'Andrew Nester',
-        'desc' => 'Contributor to Phalcon/Zephir',
+        'desc' => 'Contributor to SugarCRM, Yii2, DesignPatternsPHP',
         'twitter' => 'andrewnester',
     ),
 );
