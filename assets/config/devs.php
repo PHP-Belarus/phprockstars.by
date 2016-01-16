@@ -35,6 +35,6 @@ return array(
     array(
         'name' => 'Eugene Dounar',
         'desc' => 'Contributor to Pagekit CMS, Doctrine 2, Docker HHVM',
-        'twitter' => 'eugene-dounar',
+        'twitter' => 'eugene_dounar',
     ),
 );
