@@ -32,4 +32,9 @@ return array(
         'desc' => 'Contributor to SugarCRM, Yii2, DesignPatternsPHP',
         'twitter' => 'andrewnester',
     ),
+    array(
+        'name' => 'Eugene Dounar',
+        'desc' => 'Contributor to Pagekit CMS, Doctrine 2, Docker HHVM',
+        'twitter' => 'eugene-dounar',
+    ),
 );
