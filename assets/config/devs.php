@@ -23,11 +23,6 @@ return array(
         'twitter' => 'iklimchuk',
     ),
     array(
-        'name' => 'Anton Serdyuk',
-        'desc' => 'Contributor to Laravel, Doctrine and PHP-Fig',
-        'twitter' => 'anton_serdyuk',
-    ),
-    array(
         'name' => 'Andrew Nester',
         'desc' => 'Contributor to SugarCRM, Yii2, DesignPatternsPHP',
         'twitter' => 'andrewnester',
