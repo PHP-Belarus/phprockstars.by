@@ -32,4 +32,9 @@ return array(
         'desc' => 'Contributor to Pagekit CMS, Doctrine 2, Docker HHVM',
         'twitter' => 'eugene_dounar',
     ),
+    array(
+        'name' => 'Alexander Dunin',
+        'desc' => 'PHP developer',
+        'twitter' => 'iwebwin',
+    ),
 );
