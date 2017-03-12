@@ -24,7 +24,7 @@ return array(
     ),
     array(
         'name' => 'Andrew Nester',
-        'desc' => 'Contributor to SugarCRM, Yii2, DesignPatternsPHP',
+        'desc' => 'Contributor to PHP, SugarCRM, Yii2, DesignPatternsPHP',
         'twitter' => 'andrewnester',
     ),
     array(
